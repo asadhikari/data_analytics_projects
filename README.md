@@ -1,5 +1,5 @@
 # Data Analytics Projects
-##Arjun Adhikari 
+## Arjun Adhikari 
 
 > Here I have uploaded a few of my Data Analytics Projects. Some of them were done as a part of Udacity Data Analytics Nanodegree Programs.
 
