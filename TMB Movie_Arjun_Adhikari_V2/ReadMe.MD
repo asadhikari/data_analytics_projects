@@ -2,6 +2,8 @@
 
 __In this analysis I determined what attributes make a movie successful.__ 
 
+<img src="Images/Movie_Genre_WordCloud.png" width=400>
+
 ### Data Cleanup 
 1. The data was cleaned up to drop any missing values, non-necessary columns and any budget or revenue values that contained zero. This dropped down the number of movies from >10,000 down to 3853. 
     1. Though this resulted in loss of >50% of the original data, there dataset is significantly large enough to analyze. 
