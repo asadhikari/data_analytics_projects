@@ -1,6 +1,6 @@
 ## Project Summary 
 
-__In this analysis I determined what attributes make a movie successful. Each section contains a summary of the analysis, and here I summarize the complete project.__ 
+__In this analysis I determined what attributes make a movie successful.__ 
 
 ### Data Cleanup 
 1. The data was cleaned up to drop any missing values, non-necessary columns and any budget or revenue values that contained zero. This dropped down the number of movies from >10,000 down to 3853. 
