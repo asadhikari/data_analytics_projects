@@ -20,6 +20,8 @@
 8. The ProsperScore is normally distributed. So is the APR, and this suggests that there could be a strong correlation between the APR and ProsperScore. 
 9. Most of the people with the Loans are employed, therefore one can conclude that being employed definitely boosts you chances of securing a loan
 
+<img src="Images/univariate.png" width=500>
+
 > Bivariate Exploration 
 1. A correlation heatmap gives us the correlation coefficients between the numerical variables 
     1. Borrower APR is negatively correlated to the Prosper Rating and Credit Score
@@ -28,6 +30,8 @@
 3. StatedMonthlyIncome and ProsperRating are correlated positively to LoanAmount
 4. Box plots are used to show that APR is affected by IncomeRange
 5. Box plots show that the LoanAmount is affected by ProsperScore, EmploymentStatus, LoanStatus and IncomeRange
+
+<img src="Images/bivariate.png" width=500>
 
 >Multivariate Exploration
 How categorical variables effect BorrowerAPR for different prosperRatings
@@ -49,6 +53,8 @@ How categorical variables effect BorrowerAPR for different prosperRatings
 3. There is a clear gradient of the ProsperRatings vs APR, and we see that the lowest APRs are associated with the highest ratings. 
 4. The loans > $22000 are almost all have higher than 6.0 ProsperRating and a low APR.
 5. Monthly payments are most directly correlated to loanAmount
+
+<img src="Images/multivariate.png" width=500>
 
 ## Key Insights for Presentation
 
